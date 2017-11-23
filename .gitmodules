@@ -1,0 +1,4 @@
+[submodule "deps/kikitux/packer-oraclelinux-ovf"]
+	path = deps/kikitux/packer-oraclelinux-ovf
+	url = https://github.com/kikitux/packer-oraclelinux-ovf.git
+	branch = master

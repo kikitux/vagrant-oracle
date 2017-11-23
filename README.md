@@ -2,20 +2,28 @@
 
 # Requirements
 
-- [ ] Vagrant box with an Oracle database
+- [X] Vagrant box with an Oracle database
+
+# Release notes
+
+None
 
 # TODO:
 
 Version: 0.0.1
 
-- [ ] Create Python script to read data from a Materialized View
+- [ ] Create schema
+- [ ] Create tables
+- [ ] Create records
 
 Version: 0.0.2
 
+- [ ] Create materialized view (to denormalize tables)
+
+Version: 0.0.3
+
+- [ ] Create Python script to read data from a Materialized View
+
+Version: 0.0.4
+
 - [ ] this todo
-
-
-
-
-
-git@github.com:nabels-coolblue/vagrant-oracle.git
